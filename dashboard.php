@@ -55,7 +55,7 @@ require_once("libs.php");
             </a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="examples/typography.html">
+            <a class="nav-link" onClick="loadPage('cargar_planilla.php')" href="#">
               <i class="material-icons">library_books</i>
               <p>Carga Planilla</p>
             </a>
@@ -63,31 +63,31 @@ require_once("libs.php");
           <li class="nav-item ">
             <a class="nav-link" href="examples/icons.html">
               <i class="material-icons">bubble_chart</i>
-              <p>Icons</p>
+              <p>Opcion 1</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="examples/map.html">
               <i class="material-icons">location_ons</i>
-              <p>Maps</p>
+              <p>Opcion 2</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="examples/notifications.html">
               <i class="material-icons">notifications</i>
-              <p>Notifications</p>
+              <p>Opcion 3</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="examples/rtl.html">
               <i class="material-icons">language</i>
-              <p>RTL Support</p>
+              <p>Opcion 4</p>
             </a>
           </li>
           <li class="nav-item active-pro ">
             <a class="nav-link" href="examples/upgrade.html">
               <i class="material-icons">unarchive</i>
-              <p>Upgrade to PRO</p>
+              <p>Opcion 5</p>
             </a>
           </li>
         </ul>
